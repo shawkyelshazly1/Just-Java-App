@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method is to calculate the total price of the Coffee order according to the Quantity 
+     * This method is to calculate the total price of the Coffee order according to the Quantity of the Coffee ordered
      */
 
 
